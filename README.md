@@ -5,7 +5,7 @@ Telegram group : [invite link](https://t.me/Ehcobreakwa11)
 
 Demo: [迷之屋](https://www.ehcozone.ml/)
 
-Wiki: [Wiki](https://github.com/Ehco1996/django-sspanel/wiki)
+Wiki: [Wiki](https://github.com/wilia/django-sspanel/wiki)
 
 **欢迎老板捐赠**
 
